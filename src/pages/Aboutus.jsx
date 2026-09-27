@@ -125,22 +125,12 @@ const toggleFaq = (index) => {
     <p>Our dedicated professionals work every day to ensure you receive the best skincare experience possible.</p>
 
     <div class="team-members">
-      <div class="member">
-        <h4>Rewan Hesham</h4>
-     
-      </div>
-      <div class="member">
-        <h4>Rewan Mohamed</h4>
-    
-      </div>
+
       <div class="member">
         <h4>Youssef Sherif</h4>
      
       </div>
-      <div class="member">
-        <h4>Ahmed Amr</h4>
       
-      </div>
       
     </div>
   </section>
